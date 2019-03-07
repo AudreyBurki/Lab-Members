@@ -33,9 +33,9 @@ Sept 2010 - June 2015: Diploma in Philology, Lomonosow Moscow State University, 
 Oct 2015 - May 2018: M.Sc. in Experimental and Clinical Linguistics, University of Potsdam, Germany (With Distinction)  
 Sept 2018 - present: Ph.D. candidate within the IDEALAB Ph.D. programme (http://www.phd-idealab.com//)  
 
-Employment history:  
+Employment history:    
 July 2016 - June 2018: Research Assistant at the NOLA Lab, University of Potsdam (https://www.uni-potsdam.de/nola/index.html)  
-March 2017 - August 2018: Research Assistant at the VasishthLab, University of Potsdam (http://www.ling.uni-potsdam.de/~vasishth/)  
+March 2017 - August 2018: Research Assistant at the VasishthLab, University of Potsdam (http://www.ling.uni-potsdam.de/~vasishth/)   
 
 #### Research interests
 I am currently working on novel word learning in first and second language, and I am particularly interested in the impact of learning context on such aspects of word learning as explicit recall, semantic integration and between-language mapping. I aim to study this using both behavioral and electrophysiological methods. In addition, I have a keen interest in the role of memory and age-related processes in language learning. I am also very enthusiastic about statistics.
