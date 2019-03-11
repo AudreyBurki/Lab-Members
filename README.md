@@ -1,7 +1,15 @@
 [To Main page](https://audreyburki.github.io/Website/)
 
 ## Emiel van de Hoven (Post-doc)
+#### Short Bio
+From 2008-2011 I did a BA in Communication and Information Sciences at Tilburg University. After that, I did a Research Master’s in Language and Communication at Tilburg University and Radboud University Nijmegen. I wrote my MA thesis with Roel Willems at the Max Planck Institute for Psycholinguistics in Nijmegen, while also working at the MPI as a student-assistant for Elizabeth Norcliffe. In 2014, I started my PhD in Cognitive Science at the University of Freiburg under the supervision of Evelyn Ferstl. I successfully defended my doctoral thesis in February 2019 before moving to Potsdam to start as a Post-doc in Audrey Bürki’s Cognitive Science: Language and Methods lab.
 
+#### Research Interests
+I’m interested in a variety of topics related to language processing – my MA thesis was about the effect of the literary device of foregrounding on reading times; the topic of my PhD was how so-called implicit causality verbs and the larger discourse context affect discourse expectations and pronoun resolution; and currently I’m investigating the planning of utterances across languages with different linguistic constraints. Three common denominators of my work are the use of eye-tracking as a methodology; an interest in methods of statistical analysis; and an aim for conceptual clarity when talking about the mind.
+
+#### Personal Websites
+researchgate.net/profile/emiel_van_den_hoven
+osf.io/gnvj2
 
 
 ## Sylvain Madec (Post-doc)
