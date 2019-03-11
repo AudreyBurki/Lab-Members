@@ -1,6 +1,6 @@
 [To Main page](https://audreyburki.github.io/Website/)
 
-## Emiel van de Hoven (Post-doc)
+## Emiel van den Hoven (Post-doc)
 #### Short Bio
 From 2008-2011 I did a BA in Communication and Information Sciences at Tilburg University. After that, I did a Research Master’s in Language and Communication at Tilburg University and Radboud University Nijmegen. I wrote my MA thesis with Roel Willems at the Max Planck Institute for Psycholinguistics in Nijmegen, while also working at the MPI as a student-assistant for Elizabeth Norcliffe. In 2014, I started my PhD in Cognitive Science at the University of Freiburg under the supervision of Evelyn Ferstl. I successfully defended my doctoral thesis in February 2019 before moving to Potsdam to start as a Post-doc in Audrey Bürki’s Cognitive Science: Language and Methods lab.
 
