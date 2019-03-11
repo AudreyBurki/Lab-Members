@@ -8,8 +8,8 @@ From 2008-2011 I did a BA in Communication and Information Sciences at Tilburg U
 I’m interested in a variety of topics related to language processing – my MA thesis was about the effect of the literary device of foregrounding on reading times; the topic of my PhD was how so-called implicit causality verbs and the larger discourse context affect discourse expectations and pronoun resolution; and currently I’m investigating the planning of utterances across languages with different linguistic constraints. Three common denominators of my work are the use of eye-tracking as a methodology; an interest in methods of statistical analysis; and an aim for conceptual clarity when talking about the mind.
 
 #### Personal Websites
-researchgate.net/profile/emiel_van_den_hoven
-osf.io/gnvj2
+https://researchgate.net/profile/emiel_van_den_hoven   
+https://osf.io/gnvj2
 
 
 ## Sylvain Madec (Post-doc)
