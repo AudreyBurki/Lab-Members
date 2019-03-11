@@ -11,25 +11,28 @@ I’m interested in a variety of topics related to language processing – my MA
 https://researchgate.net/profile/emiel_van_den_hoven   
 https://osf.io/gnvj2
 
-
-
-
+ 
+ 
+ 
 ## Sylvain Madec (Post-doc)
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 ## Hyein Jeong (PhD student)
 #### Short Bio
 I'm a PhD student in the "Cognitive Science: Language and Methods lab" at the University of Potsdam, in Germany. I'm currently working on noun phrase production in German.
-
-
-
-
+ 
+ 
+ 
+ 
 #### Research Interests
 I am interested in how people comprehend and produce multi-word utterances, integrating different kinds of semantic information. Previously, I investigated the mechanism of sentence comprehension in Korean with a focus on semantic processing (e.g. homonymy, polysemy, metaphor) using ERPs and reaction time measures.
-
+ 
+  
+   
+    
 ## Thea Villinger (PhD student)
 #### Short Bio
 I obtained a B.Sc. in Psychology in 2012, and a M.Sc. in Experimental Linguistics in 2017. I have worked as a research assistant in labs at Montana State University, and the University of Potsdam. I started my Ph.D. in 2017 in the "Cognitive Science: Language and Methods Lab" at the University of Potsdam under the supervision of Dr. Audrey Bürki. My Ph.D. project focuses on language production and EEG methodology.
@@ -43,10 +46,10 @@ https://www.researchgate.net/profile/Thea_Villinger
 https://orcid.org/0000-0001-5605-679X
 
 https://osf.io/4q8rx/
-
-
-
-
+ 
+  
+ 
+ 
 ## Maria Korochkina (PhD student)
 #### Short bio
 Education:  
@@ -60,8 +63,8 @@ March 2017 - August 2018: Research Assistant at the VasishthLab, University of P
 
 #### Research interests
 I am currently working on novel word learning in first and second language, and I am particularly interested in the impact of learning context on such aspects of word learning as explicit recall, semantic integration and between-language mapping. I aim to study this using both behavioral and electrophysiological methods. In addition, I have a keen interest in the role of memory and age-related processes in language learning. I am also very enthusiastic about statistics.
-
-
-
-
+ 
+ 
+ 
+ 
 ## Shereen Elbuy (Research Assistant)
