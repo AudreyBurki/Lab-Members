@@ -55,4 +55,19 @@ I am currently working on novel word learning in first and second language, and 
  
  
  
-## Shereen Elbuy (Research Assistant)
+## Shereen Elbuy (PhD Student)
+
+
+-------------------------------------------------------------
+ 
+ 
+ 
+## Cheslie Klein (Research Assistant)
+
+
+-------------------------------------------------------------
+ 
+ 
+ 
+## Anna Slocinska (Research Assistant)
+
