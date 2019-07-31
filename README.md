@@ -56,6 +56,13 @@ I am currently working on novel word learning in first and second language, and 
  
  
 ## Shereen Elbuy (PhD Student)
+#### Short bio  
+In 2014 I obtained a B.A in Linguistics from Qatar University, and in 2019 I completed my M.Sc in Experimental and Clinical Linguistics at Universität Potsdam. Both of my theses mainly involved the investigation of word production in Arabic aphasia; specifically the role of different Arabic morphological properties during noun and verb retrieval. Upon completion of my M.Sc, I enrolled as a PhD candidate at the Cognitive Science: Language & Methods lab under the supervision of Audrey Bürki and Isabell Wartenburger. I am also recruited as a Research Assistant at the CSLM lab to assist with EEG and behavioural data collection and pre-processing, as well as in a meta-analysis of semantic interference effects in the picture word interference paradigm.
+
+#### Research interests
+I am interested in the role of language-specific features of Arabic on language production processes, more precisely I want to investigate the role of Arabic morphological properties during the semantic encoding of nouns in healthy speakers. I will do so using simple picture naming tasks and the Picture-Word-Interference (PWI) paradigm.
+Personal website
+https://www.researchgate.net/profile/Shereen_Elbuy
 
 
 -------------------------------------------------------------
