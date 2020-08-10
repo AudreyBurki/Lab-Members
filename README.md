@@ -14,6 +14,12 @@ https://osf.io/gnvj2
 -------------------------------------------------------------
 ## Pamela Fuhrmeister (Post-doc)
  
+I finished my B.A. in German in 2009 and my M.A. in Applied Linguistics in 2011 at Texas Tech University. I received my PhD in Speech, Language, and Hearing Sciences in July 2020 from the University of Connecticut. I am now a postdoc in the Cognitive Science: Language and Methods lab, led by Dr. Audrey Bürki, and I am working on the SFB project B05, Variability and its limits in the time course of language production processes.
+
+My research so far has focused on the perceptual learning of second-language speech sounds and how phonetic variability in the speech signal can affect learning and memory for those sounds. Another line of my work seeks to better understand individual differences in speech perception and learning of speech sounds by testing whether language ability, cognitive skills, or individual variation in brain structure (using MRI) predict individual differences in performance on perceptual speech tasks. I am now working on projects involving individual differences in cognitive skills and how these relate to word production.
+
+www.pamfuhrmeister.com
+osf.io/m5ezq
  
  -------------------------------------------------------------
 ## Ali Behzadnia (PhD student)
