@@ -16,7 +16,7 @@ https://osf.io/gnvj2
  
  
  -------------------------------------------------------------
-## Alo (PhD student)
+## Ali Behzadnia (PhD student)
  
 -------------------------------------------------------------
 ## Hyein Jeong (PhD student)
