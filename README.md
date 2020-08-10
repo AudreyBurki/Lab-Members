@@ -12,10 +12,11 @@ https://researchgate.net/profile/emiel_van_den_hoven
 https://osf.io/gnvj2
 
 -------------------------------------------------------------
-## Sylvain Madec (Post-doc)
+## Pamela Fuhrmeister (Post-doc)
  
  
- 
+ -------------------------------------------------------------
+## Alo (PhD student)
  
 -------------------------------------------------------------
 ## Hyein Jeong (PhD student)
@@ -25,21 +26,6 @@ I'm a PhD student in the "Cognitive Science: Language and Methods lab" at the Un
 #### Research Interests
 I am interested in how people comprehend and produce multi-word utterances, integrating different kinds of semantic information. Previously, I investigated the mechanism of sentence comprehension in Korean with a focus on semantic processing (e.g. homonymy, polysemy, metaphor) using ERPs and reaction time measures.
 
--------------------------------------------------------------
-    
-## Thea Villinger (PhD student)
-#### Short Bio
-I obtained a B.Sc. in Psychology in 2012, and a M.Sc. in Experimental Linguistics in 2017. I have worked as a research assistant in labs at Montana State University, and the University of Potsdam. I started my Ph.D. in 2017 in the "Cognitive Science: Language and Methods Lab" at the University of Potsdam under the supervision of Dr. Audrey Bürki. My Ph.D. project focuses on language production and EEG methodology.
- 
-#### Research Interests
-My research interests lie in the field of cognitive science; how the brain produces language both in monolingual and multilingual speakers. I use various offline experiments (i.e. reaction time data, acoustic analysis) and online experiments (i.e. eye-tracking, event-related brain potentials) to investigate the cognitive processes underlying language production. 
-
-#### Personal Websites
-https://www.researchgate.net/profile/Thea_Villinger
-
-https://orcid.org/0000-0001-5605-679X
-
-https://osf.io/4q8rx/
  
 -------------------------------------------------------------  
  
