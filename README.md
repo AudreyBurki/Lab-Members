@@ -17,6 +17,8 @@ Common underlying themes and goals in my research projects are (1) how to extend
 https://www.researchgate.net/profile/Audrey_Buerki 
 
 https://osf.io/c6v0t/
+
+#### A list of publicaitons can be found [here](https://github.com/AudreyBurki/Publication-list)
 -------------------------------------------------------------
 
 ## Emiel van den Hoven (Post-doc)
