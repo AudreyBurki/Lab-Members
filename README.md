@@ -13,6 +13,7 @@ Common underlying themes and goals in my research projects are (1) how to extend
 
 
 #### Personal Websites
+
 https://www.researchgate.net/profile/Audrey_Buerki 
 https://osf.io/c6v0t/
 -------------------------------------------------------------
@@ -25,6 +26,7 @@ From 2008-2011 I did a BA in Communication and Information Sciences at Tilburg U
 I’m interested in a variety of topics related to language processing – my MA thesis was about the effect of the literary device of foregrounding on reading times; the topic of my PhD was how so-called implicit causality verbs and the larger discourse context affect discourse expectations and pronoun resolution; and currently I’m investigating the planning of utterances across languages with different linguistic constraints. Three common denominators of my work are the use of eye-tracking as a methodology; an interest in methods of statistical analysis; and an aim for conceptual clarity when talking about the mind.
 
 #### Personal Websites
+
 https://osf.io/gnvj2/
 https://www.researchgate.net/profile/Emiel_Van_Den_Hoven
 
