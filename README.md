@@ -15,6 +15,7 @@ Common underlying themes and goals in my research projects are (1) how to extend
 #### Personal Websites
 
 https://www.researchgate.net/profile/Audrey_Buerki 
+
 https://osf.io/c6v0t/
 -------------------------------------------------------------
 
@@ -28,6 +29,7 @@ I’m interested in a variety of topics related to language processing – my MA
 #### Personal Websites
 
 https://osf.io/gnvj2/
+
 https://www.researchgate.net/profile/Emiel_Van_Den_Hoven
 
 -------------------------------------------------------------
@@ -38,6 +40,7 @@ I finished my B.A. in German in 2009 and my M.A. in Applied Linguistics in 2011 
 My research so far has focused on the perceptual learning of second-language speech sounds and how phonetic variability in the speech signal can affect learning and memory for those sounds. Another line of my work seeks to better understand individual differences in speech perception and learning of speech sounds by testing whether language ability, cognitive skills, or individual variation in brain structure (using MRI) predict individual differences in performance on perceptual speech tasks. I am now working on projects involving individual differences in cognitive skills and how these relate to word production.
 
 www.pamfuhrmeister.com
+
 osf.io/m5ezq
  
  -------------------------------------------------------------
