@@ -11,6 +11,7 @@ I obtained a PhD in Linguistics in 2010, then worked as a post-doctoral research
 My research combines a theoretical interest for the cognitive architecture of the language production system and a methodological interest for the paradigms and statistical tools that allow collecting and analyzing the relevant data. It combines theoretical models and methods from different fields, including linguistics (phonetic sciences, phonology), experimental psychology, statistics, and cognitive neurosciences (i.e., ERPs). I am particularly interested in inter-individual behavior.
 Common underlying themes and goals in my research projects are (1) how to extend the description of language planning processes so that it accounts for language as it is spoken and learned in every day contexts (i.e., towards an ecological model of language production) (2) how to apply state-of-the-art tools in statistics to make the most of empirical data and (3) how to best describe and model the acquisition of new linguistic knowledge. 
 
+
 #### [Publications](https://audreyburki.github.io/Publication-list/)  
 
 #### [Third-party funded projects](https://audreyburki.github.io/Funded-research-projects/) 
