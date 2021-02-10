@@ -73,6 +73,7 @@ I obtained a diploma in Philology in 2015 (Lomonosov Moscow State University) an
 #### Research interests
 I am currently working on novel word learning in first and second language, and I am particularly interested in the impact of learning context on such aspects of word learning as explicit recall, semantic integration and between-language mapping. I aim to study this using both behavioral and electrophysiological methods. In addition, I have a keen interest in the role of memory and age-related processes in language learning. I am also very enthusiastic about statistics.
 
+
 -------------------------------------------------------------
 ## Shereen Elbuy (PhD Student)
 #### Short bio  
