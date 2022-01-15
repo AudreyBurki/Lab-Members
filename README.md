@@ -1,9 +1,9 @@
-[To Main page](https://audreyburki.github.io/Website/)
-
 <style>
 body {
 text-align: justify}
 </style>
+
+[To Main page](https://audreyburki.github.io/Website/)
 
 ## Audrey Bürki
 <img src="./Audrey.jpeg" style="width:27%; border:1px solid; margin-right: 20px" align="left">
