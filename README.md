@@ -23,48 +23,55 @@ https://www.researchgate.net/profile/Audrey_Buerki
 https://osf.io/c6v0t/
 
 -------------------------------------------------------------
-
-## Emiel van den Hoven (Post-doc)
-#### Short Bio
-From 2008-2011 I did a BA in Communication and Information Sciences at Tilburg University. After that, I did a Research Master’s in Language and Communication at Tilburg University and Radboud University Nijmegen. I wrote my MA thesis with Roel Willems at the Max Planck Institute for Psycholinguistics in Nijmegen, while also working at the MPI as a student-assistant for Elizabeth Norcliffe. In 2014, I started my PhD in Cognitive Science at the University of Freiburg under the supervision of Evelyn Ferstl. I successfully defended my doctoral thesis in February 2019 before moving to Potsdam to start as a Post-doc in Audrey Bürki’s Cognitive Science: Language and Methods lab.
-
-#### Research Interests
-I’m interested in a variety of topics related to language processing – my MA thesis was about the effect of the literary device of foregrounding on reading times; the topic of my PhD was how so-called implicit causality verbs and the larger discourse context affect discourse expectations and pronoun resolution; and currently I’m investigating the planning of utterances across languages with different linguistic constraints. Three common denominators of my work are the use of eye-tracking as a methodology; an interest in methods of statistical analysis; and an aim for conceptual clarity when talking about the mind.
-
-#### Personal Websites
-
-https://osf.io/gnvj2/
-
-https://www.researchgate.net/profile/Emiel_Van_Den_Hoven
-
--------------------------------------------------------------
 ## Pamela Fuhrmeister (Post-doc)
- 
+
+#### Short Bio
 I finished my B.A. in German in 2009 and my M.A. in Applied Linguistics in 2011 at Texas Tech University. I received my PhD in Speech, Language, and Hearing Sciences in July 2020 from the University of Connecticut. I am now a postdoc in the Cognitive Science: Language and Methods lab, led by Dr. Audrey Bürki, and I am working on the SFB project B05, Variability and its limits in the time course of language production processes.
 
+#### Research Interests
 My research so far has focused on the perceptual learning of second-language speech sounds and how phonetic variability in the speech signal can affect learning and memory for those sounds. Another line of my work seeks to better understand individual differences in speech perception and learning of speech sounds by testing whether language ability, cognitive skills, or individual variation in brain structure (using MRI) predict individual differences in performance on perceptual speech tasks. I am now working on projects involving individual differences in cognitive skills and how these relate to word production.
 
 www.pamfuhrmeister.com
 
 osf.io/m5ezq
  
+
+-------------------------------------------------------------
+## Paula Lissón (Post-doc)
+
+<img src="Paula.png" style="width:20%; border:1px solid; margin-right: 20px" align="left">
+
+#### Short Bio
+I finished my B.A. in English and French at the ULPGC, in Spain. I completed my M.A. in English Linguistics at the Université Paris Diderot and New York University in 2018. Between 2018 and 2021 I was a PhD student in the Vasishth Lab, at the University of Potsdam. I recently submitted my dissertation, entitled "Computational models of sentence comprehension in aphasia", and I am now part of the Cognitive Science: Language and Methods lab, led by Dr. Audrey Bürki. 
+
+#### Research Interests
+My current research focuses on modeling the cognitive mechanisms underlying the production of utterances in healthy native and non-native speakers. I use behavioral experiments and computational modeling to investigate the role of frequency and to test a new model of language production. I am generally interested in memory, multilingualism, langauge learning, and cognitive modeling.  During my PhD, I worked on developing Bayesian computational models of sentence processing in aphasia.
+
+https://paulalisson.github.io
+
+https://osf.io/7d392/
+
+
+
  -------------------------------------------------------------
 ## Solveig Castelli (PhD student)  
 
+### Short bio:
+I completed my BA in Spanish and Linguistics with a minor in Speech, Language and Hearing sciences in 2016 at Boston University. I then did my Msc in Clinical Linguistics at the joint European Master's program in Clinical Linguistics  (University of Eastern Finland, University of Groningen and the University of Potsdam). Following an internship in the Center for Language and Brain at the Higher School of Economics, I submitted my master thesis "A Collaborative Neural Substrate System behind Luria’s Efferent Motor Aphasia" in 2019 under the supervision of Prof. Roelien Bastiaanse and Dr. Olga Dragoy. I am now in the International Doctorate for Experimental Approaches to Language And Brain program doing my PhD with Dr. Audrey Bürki in the Cognitive Science: Language & Methods group (University of Potsdam) and Prof. Roel Jonkers and Dr. Srdjan Popov in the Neurolinguistics group (University of Groningen).
+
+### Research interests:
+My work currently focuses on the processing of verbs in sentence production in healthy speakers. More specifically, I am interested in investigating how different syntactic factors such as hierarchical dependencies within verb phrases may have an effect on verb planning during sentence production. I am also interested in statistical analysis within both frequentist and Bayesian frameworks. 
+
  -------------------------------------------------------------
 ## Ali Behzadnia (PhD student)
- 
--------------------------------------------------------------
-## Hyein Jeong (PhD student)
-#### Short Bio
-I'm a PhD student in the "Cognitive Science: Language and Methods lab" at the University of Potsdam, in Germany. I'm currently working on noun phrase production in German.
 
-#### Research Interests
-I am interested in how people comprehend and produce multi-word utterances, integrating different kinds of semantic information. Previously, I investigated the mechanism of sentence comprehension in Korean with a focus on semantic processing (e.g. homonymy, polysemy, metaphor) using ERPs and reaction time measures.
+### Short bio:
+I obtained my B.A. in 2013 and M.A. in 2017 in Iran. For my master’s theses, I investigated children’s interrogative suggestibility. In 2019, I started my PhD in the International Doctorate for Experimental Approaches to Language and Brain (IDEALAB) Program. I am doing my PhD under the supervision of Dr. Audrey Bürki at Potsdam University and Dr. Lisi Beyersmann at Macquarie University. I am currently in the Cognitive Science: Language and Methods lab, led by Dr. Audrey Bürki.
 
+### Research interests:
+I am interested in how words with different morphemes are learned and processed in a first and a second language. I am currently investigating novel word learning and processing in English as L1 and L2. Particularly, I am investigating learning and processing of written and orally trained morphologically complex words. 
  
 -------------------------------------------------------------  
- 
  
 ## Maria Korochkina (PhD student)
 #### Short bio  
@@ -81,8 +88,7 @@ In 2014 I obtained a B.A in Linguistics from Qatar University, and in 2019 I com
 
 #### Research interests
 I am interested in the role of language-specific features of Arabic on language production processes, more precisely I want to investigate the role of Arabic morphological properties during the semantic encoding of nouns in healthy speakers. I will do so using simple picture naming tasks and the Picture-Word-Interference (PWI) paradigm.
-Personal website
-https://www.researchgate.net/profile/Shereen_Elbuy
+Personal website: https://www.researchgate.net/profile/Shereen_Elbuy
 
 
 -------------------------------------------------------------
