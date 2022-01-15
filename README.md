@@ -107,7 +107,7 @@ Personal website: https://www.researchgate.net/profile/Shereen_Elbuy
 -------------------------------------------------------------
  
 # Research Assistants
-Anna Slocinska; 
+Nikolay Dimitrov
 
 # Alumni 
 Emiel van den Hoven (Post-doc)
