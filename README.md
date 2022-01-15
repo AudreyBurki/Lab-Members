@@ -43,7 +43,7 @@ osf.io/m5ezq
 -------------------------------------------------------------
 ## Paula Lissón (Post-doc)
 
-<img src="./Paula.png" style="width:20%; border:1px solid; margin-right: 20px" align="left">
+<img src="./Paula.png" style="width:25%; border:1px solid; margin-right: 20px" align="left">
 
 #### Short Bio
 I finished my B.A. in English and French at the ULPGC, in Spain. I completed my M.A. in English Linguistics at the Université Paris Diderot and New York University in 2018. Between 2018 and 2021 I was a PhD student in the Vasishth Lab, at the University of Potsdam. I recently submitted my dissertation, entitled "Computational models of sentence comprehension in aphasia", and I am now part of the Cognitive Science: Language and Methods lab, led by Dr. Audrey Bürki. 
@@ -56,6 +56,8 @@ https://paulalisson.github.io
 https://osf.io/7d392/
 
 
+ -------------------------------------------------------------
+## Marie Hansen (PhD student)  
 
  -------------------------------------------------------------
 ## Solveig Castelli (PhD student)  
@@ -69,7 +71,7 @@ My work currently focuses on the processing of verbs in sentence production in h
 
  -------------------------------------------------------------
 ## Ali Behzadnia (PhD student)
-<img src="./Ali.png" style="width:20%; border:1px solid; margin-right: 20px" align="left">
+<img src="./Ali.jpg" style="width:20%; border:1px solid; margin-right: 20px" align="left">
 
 ### Short bio:
 I obtained my B.A. in 2013 and M.A. in 2017 in Iran. For my master’s theses, I investigated children’s interrogative suggestibility. In 2019, I started my PhD in the International Doctorate for Experimental Approaches to Language and Brain (IDEALAB) Program. I am doing my PhD under the supervision of Dr. Audrey Bürki at Potsdam University and Dr. Lisi Beyersmann at Macquarie University. I am currently in the Cognitive Science: Language and Methods lab, led by Dr. Audrey Bürki.
@@ -92,7 +94,7 @@ I am currently working on novel word learning in first and second language, and 
 
 -------------------------------------------------------------
 ## Shereen Elbuy (PhD Student)
-<img src="./Shereen" style="width:20%; border:1px solid; margin-right: 20px" align="left">
+<img src="./Shereen.jpeg" style="width:20%; border:1px solid; margin-right: 20px" align="left">
 
 #### Short bio  
 In 2014 I obtained a B.A in Linguistics from Qatar University, and in 2019 I completed my M.Sc in Experimental and Clinical Linguistics at Universität Potsdam. Both of my theses mainly involved the investigation of word production in Arabic aphasia; specifically the role of different Arabic morphological properties during noun and verb retrieval. Upon completion of my M.Sc, I enrolled as a PhD candidate at the Cognitive Science: Language & Methods lab under the supervision of Audrey Bürki and Isabell Wartenburger. I am also recruited as a Research Assistant at the CSLM lab to assist with EEG and behavioural data collection and pre-processing, as well as in a meta-analysis of semantic interference effects in the picture word interference paradigm.
@@ -104,5 +106,10 @@ Personal website: https://www.researchgate.net/profile/Shereen_Elbuy
 
 -------------------------------------------------------------
  
-## Anna Slocinska (Research Assistant)
+# Research Assistants
+Anna Slocinska; 
+
+# Alumni 
+Emiel van den Hoven (Post-doc)
+
 
