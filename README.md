@@ -39,7 +39,7 @@ osf.io/m5ezq
 -------------------------------------------------------------
 ## Paula Lissón (Post-doc)
 
-<img src="Paula.png" style="width:20%; border:1px solid; margin-right: 20px" align="left">
+<img src="./Paula.png" style="width:20%; border:1px solid; margin-right: 20px" align="left">
 
 #### Short Bio
 I finished my B.A. in English and French at the ULPGC, in Spain. I completed my M.A. in English Linguistics at the Université Paris Diderot and New York University in 2018. Between 2018 and 2021 I was a PhD student in the Vasishth Lab, at the University of Potsdam. I recently submitted my dissertation, entitled "Computational models of sentence comprehension in aphasia", and I am now part of the Cognitive Science: Language and Methods lab, led by Dr. Audrey Bürki. 
