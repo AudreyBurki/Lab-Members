@@ -2,19 +2,15 @@
 
 
 ## Audrey Bürki
+<img src="./Audrey.jpeg" style="width:20%; border:1px solid; margin-right: 20px" align="left">
 
-#### Short Bio
+### Short Bio
 I obtained a PhD in Linguistics in 2010, then worked as a post-doctoral researcher at the Universities of York, Geneva, and Marseille, and as a lecturer in Methodology and data analysis in Geneva. I arrived in Potsdam in October 2016 to start a research group with a focus on language and applied statistics. 
 
-#### Research interests
+### Research interests
 
 My research combines a theoretical interest for the cognitive architecture of the language production system and a methodological interest for the paradigms and statistical tools that allow collecting and analyzing the relevant data. It combines theoretical models and methods from different fields, including linguistics (phonetic sciences, phonology), experimental psychology, statistics, and cognitive neurosciences (i.e., ERPs). I am particularly interested in inter-individual behavior.
 Common underlying themes and goals in my research projects are (1) how to extend the description of language planning processes so that it accounts for language as it is spoken and learned in every day contexts (i.e., towards an ecological model of language production) (2) how to apply state-of-the-art tools in statistics to make the most of empirical data and (3) how to best describe and model the acquisition of new linguistic knowledge. 
-
-
-#### [Publications](https://audreyburki.github.io/Publication-list/)  
-
-#### [Third-party funded projects](https://audreyburki.github.io/Funded-research-projects/) 
 
 #### Other websites
 
@@ -22,8 +18,16 @@ https://www.researchgate.net/profile/Audrey_Buerki
 
 https://osf.io/c6v0t/
 
+#### [Publications](https://audreyburki.github.io/Publication-list/)  
+
+#### [Third-party funded projects](https://audreyburki.github.io/Funded-research-projects/) 
+
+
+
 -------------------------------------------------------------
 ## Pamela Fuhrmeister (Post-doc)
+
+<img src="./Pam.jpg" style="width:20%; border:1px solid; margin-right: 20px" align="left">
 
 #### Short Bio
 I finished my B.A. in German in 2009 and my M.A. in Applied Linguistics in 2011 at Texas Tech University. I received my PhD in Speech, Language, and Hearing Sciences in July 2020 from the University of Connecticut. I am now a postdoc in the Cognitive Science: Language and Methods lab, led by Dr. Audrey Bürki, and I am working on the SFB project B05, Variability and its limits in the time course of language production processes.
@@ -55,6 +59,7 @@ https://osf.io/7d392/
 
  -------------------------------------------------------------
 ## Solveig Castelli (PhD student)  
+<img src="./Solveig.jpg" style="width:20%; border:1px solid; margin-right: 20px" align="left">
 
 ### Short bio:
 I completed my BA in Spanish and Linguistics with a minor in Speech, Language and Hearing sciences in 2016 at Boston University. I then did my Msc in Clinical Linguistics at the joint European Master's program in Clinical Linguistics  (University of Eastern Finland, University of Groningen and the University of Potsdam). Following an internship in the Center for Language and Brain at the Higher School of Economics, I submitted my master thesis "A Collaborative Neural Substrate System behind Luria’s Efferent Motor Aphasia" in 2019 under the supervision of Prof. Roelien Bastiaanse and Dr. Olga Dragoy. I am now in the International Doctorate for Experimental Approaches to Language And Brain program doing my PhD with Dr. Audrey Bürki in the Cognitive Science: Language & Methods group (University of Potsdam) and Prof. Roel Jonkers and Dr. Srdjan Popov in the Neurolinguistics group (University of Groningen).
@@ -64,6 +69,7 @@ My work currently focuses on the processing of verbs in sentence production in h
 
  -------------------------------------------------------------
 ## Ali Behzadnia (PhD student)
+<img src="./Ali.png" style="width:20%; border:1px solid; margin-right: 20px" align="left">
 
 ### Short bio:
 I obtained my B.A. in 2013 and M.A. in 2017 in Iran. For my master’s theses, I investigated children’s interrogative suggestibility. In 2019, I started my PhD in the International Doctorate for Experimental Approaches to Language and Brain (IDEALAB) Program. I am doing my PhD under the supervision of Dr. Audrey Bürki at Potsdam University and Dr. Lisi Beyersmann at Macquarie University. I am currently in the Cognitive Science: Language and Methods lab, led by Dr. Audrey Bürki.
@@ -74,6 +80,9 @@ I am interested in how words with different morphemes are learned and processed 
 -------------------------------------------------------------  
  
 ## Maria Korochkina (PhD student)
+<img src="./Maria.png" style="width:20%; border:1px solid; margin-right: 20px" align="left">
+
+
 #### Short bio  
 I obtained a diploma in Philology in 2015 (Lomonosov Moscow State University) and a M.Sc. in Experimental and Clinical Linguistics in 2018 (University of Potsdam). During my master studies, I have worked as a research assistant in various projects at NOLA and Vasishth labs involving fNIRS, EEG and eye-tracking.
 
@@ -83,6 +92,8 @@ I am currently working on novel word learning in first and second language, and 
 
 -------------------------------------------------------------
 ## Shereen Elbuy (PhD Student)
+<img src="./Shereen" style="width:20%; border:1px solid; margin-right: 20px" align="left">
+
 #### Short bio  
 In 2014 I obtained a B.A in Linguistics from Qatar University, and in 2019 I completed my M.Sc in Experimental and Clinical Linguistics at Universität Potsdam. Both of my theses mainly involved the investigation of word production in Arabic aphasia; specifically the role of different Arabic morphological properties during noun and verb retrieval. Upon completion of my M.Sc, I enrolled as a PhD candidate at the Cognitive Science: Language & Methods lab under the supervision of Audrey Bürki and Isabell Wartenburger. I am also recruited as a Research Assistant at the CSLM lab to assist with EEG and behavioural data collection and pre-processing, as well as in a meta-analysis of semantic interference effects in the picture word interference paradigm.
 
