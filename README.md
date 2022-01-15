@@ -1,8 +1,12 @@
 [To Main page](https://audreyburki.github.io/Website/)
 
+<style>
+body {
+text-align: justify}
+</style>
 
 ## Audrey Bürki
-<img src="./Audrey.jpeg" style="width:20%; border:1px solid; margin-right: 20px" align="left">
+<img src="./Audrey.jpeg" style="width:27%; border:1px solid; margin-right: 20px" align="left">
 
 ### Short Bio
 I obtained a PhD in Linguistics in 2010, then worked as a post-doctoral researcher at the Universities of York, Geneva, and Marseille, and as a lecturer in Methodology and data analysis in Geneva. I arrived in Potsdam in October 2016 to start a research group with a focus on language and applied statistics. 
