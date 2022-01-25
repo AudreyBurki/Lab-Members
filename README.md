@@ -63,6 +63,17 @@ https://osf.io/7d392/
  -------------------------------------------------------------
 ## Marie Hansen (PhD student)  
 
+<img src="./Marie.jpg" style="width:25%; border:1px solid; margin-right: 20px" align="left">
+
+Short bio:
+
+I obtained a B. Sc. in Logopedics with a focus on Neurosciences and Health Psychology in Hamburg in 2017. In the course of the International Experimental and Clinical Linguistics master’s program in Potsdam, my core interest gradually shifted from Clinical Linguistics to Cognitive Linguistics/ Psycholinguistics. I finished my M. Sc. in 2021, focusing on individual variability in the perception of prosodic cues in disambiguating prosody. Hereafter, I contributed to some more experimental work on prosodic cue production in the Neurocognition of Language lab at Potsdam University until I enrolled as a PhD student in the Cognitive Science: Language and Methods lab.
+
+Research interests:
+
+In my research, I capitalize on acoustical and durational features of speech to gain insights into the cognitive architecture of speech and language. In my PhD project, I am focusing on word production processes and am currently investigating the relationship between cognitive planning and articulatory execution. I also have a pronounced interest in statistical methods, Open Science and science communication.
+
+
  -------------------------------------------------------------
 ## Solveig Castelli (PhD student)  
 <img src="./Solveig.jpg" style="width:25%; border:1px solid; margin-right: 20px" align="left">
