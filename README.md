@@ -39,9 +39,9 @@ I finished my B.A. in German in 2009 and my M.A. in Applied Linguistics in 2011 
 #### Research Interests
 My research so far has focused on the perceptual learning of second-language speech sounds and how phonetic variability in the speech signal can affect learning and memory for those sounds. Another line of my work seeks to better understand individual differences in speech perception and learning of speech sounds by testing whether language ability, cognitive skills, or individual variation in brain structure (using MRI) predict individual differences in performance on perceptual speech tasks. I am now working on projects involving individual differences in cognitive skills and how these relate to word production.
 
-www.pamfuhrmeister.com
+[https://pamfuhrmeister.github.io/index.html](https://pamfuhrmeister.github.io/)
 
-osf.io/m5ezq
+[osf.io/m5ezq](osf.io/m5ezq)
  
 
 -------------------------------------------------------------
@@ -55,9 +55,9 @@ I finished my B.A. in English and French at the ULPGC, in Spain. I completed my 
 #### Research Interests
 My current research focuses on modeling the cognitive mechanisms underlying the production of utterances in healthy native and non-native speakers. I use behavioral experiments and computational modeling to investigate the role of frequency and to test a new model of language production. I am generally interested in memory, multilingualism, langauge learning, and cognitive modeling.  During my PhD, I worked on developing Bayesian computational models of sentence processing in aphasia.
 
-https://paulalisson.github.io
+[https://paulalisson.github.io](https://paulalisson.github.io)
 
-https://osf.io/7d392/
+[https://osf.io/7d392/](https://osf.io/7d392/)
 
 
  -------------------------------------------------------------
@@ -106,6 +106,7 @@ I obtained a diploma in Philology in 2015 (Lomonosov Moscow State University) an
 #### Research interests
 I am currently working on novel word learning in first and second language, and I am particularly interested in the impact of learning context on such aspects of word learning as explicit recall, semantic integration and between-language mapping. I aim to study this using both behavioral and electrophysiological methods. In addition, I have a keen interest in the role of memory and age-related processes in language learning. I am also very enthusiastic about statistics.
 
+[https://mariakna.github.io](https://mariakna.github.io)
 
 -------------------------------------------------------------
 ## Shereen Elbuy (PhD Student)
